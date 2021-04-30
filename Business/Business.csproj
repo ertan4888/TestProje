@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Abstract\" />
+    <Folder Include="BusinessAspects\" />
+    <Folder Include="Concrete\" />
+    <Folder Include="Constans\" />
+    <Folder Include="DependecyResolvers\" />
+    <Folder Include="ValidationRules\" />
+    <Folder Include="Utilities\" />
+  </ItemGroup>
+
+</Project>
